@@ -1,2 +1,2 @@
-# drawer
-pembuat img
+# python
+isg
